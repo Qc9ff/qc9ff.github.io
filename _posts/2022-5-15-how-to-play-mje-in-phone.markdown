@@ -15,7 +15,7 @@ title: 如何让Minecraft Java Edition在手机上运行
 >注意：当你使用ios版的Pojav时，你需要Chimera，Taurine，Odyssey或其他带有libhooker的越狱。  
 
 #### 开始
-下面我将为你展示澪的安装方法  
+###### 下面我将为你展示澪的安装方法  
 在安装完澪的安装包后,你可以看到桌面上有这个  
 [![O2zqKO.png](https://s1.ax1x.com/2022/05/15/O2zqKO.png)](https://imgtu.com/i/O2zqKO)  
 [![ORSIeg.png](https://s1.ax1x.com/2022/05/15/ORSIeg.png)](https://imgtu.com/i/ORSIeg)  
@@ -24,7 +24,7 @@ title: 如何让Minecraft Java Edition在手机上运行
 - 游戏列表: 可以看到你安装的游戏，有boat和pojav两种启动方式。  
 - 游戏目录：Minecraft的安装位置。  
 
-下面是Pojav的安装方法  
+###### 下面是Pojav的安装方法  
 在安装完澪的安装包后,你可以看到桌面上有这个  
 [![ORkcB6.png](https://s1.ax1x.com/2022/05/15/ORkcB6.png)](https://imgtu.com/i/ORkcB6)  
 [![ORkRAO.png](https://s1.ax1x.com/2022/05/15/ORkRAO.png)](https://imgtu.com/i/ORkRAO)  
