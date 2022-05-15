@@ -17,12 +17,16 @@ title: 如何让Minecraft Java Edition在手机上运行
 #### 开始
 下面我将为你展示澪的安装方法  
 在安装完澪的安装包后,你可以看到桌面上有这个  
+<<<<<<< HEAD
 [![O2zqKO.png](https://s1.ax1x.com/2022/05/15/O2zqKO.png)](https://imgtu.com/i/O2zqKO)  
 [![ORSIeg.png](https://s1.ax1x.com/2022/05/15/ORSIeg.png)](https://imgtu.com/i/ORSIeg)  
 在这里你可以看到类似HMCL的GUI界面  
 - 用户：可以注册一个账户（没什么好说的）  
 - 游戏列表: 可以看到你安装的游戏，有boat和pojav两种启动方式。  
 - 游戏目录：Minecraft的安装位置。  
+=======
+![澪](https://github.com/Qc9ff/qc9ff.github.io/blob/main/pic/play-mje-on-phone/%E6%BE%AA.png "澪")  
+>>>>>>> 03bc1b05542ba996f9f13c9090e306ea28d48584
 
 下面是Pojav的安装方法  
 在安装完澪的安装包后,你可以看到桌面上有这个  
