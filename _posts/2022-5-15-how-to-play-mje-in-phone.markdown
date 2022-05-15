@@ -20,6 +20,6 @@ title: 如何让Minecraft Java Edition在手机上运行
 #### 开始
 下面我将为你展示澪的安装方法  
 在安装完澪的安装包后,你可以看到桌面上有这个
-![澪](C:\Users\qu_a3\Documents\GitHub\qc9ff.github.io\pic\play-mje-on-phone\澪.png "澪")  
+![澪](https://github.com/Qc9ff/qc9ff.github.io/blob/main/pic/play-mje-on-phone/%E6%BE%AA.png "澪")  
 
 
