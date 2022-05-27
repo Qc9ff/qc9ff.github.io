@@ -1,12 +1,15 @@
 navbar_entries:
-  - title: 关于
-    url: about
+  - title: Home
+    url: home
 
   - title: 文章
     url: blog
 
-  - title: Home
-    url: https://qc9ff.github.io
+  - title: 关于
+    url: about
+
+
+
 
 #project_entries:
 #  - title: Project 1
