@@ -5,6 +5,9 @@ navbar_entries:
   - title: 文章
     url: blog
 
+  - title: GitBook
+    url: GitBook
+
   - title: 关于
     url: about
 
