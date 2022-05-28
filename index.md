@@ -2,5 +2,4 @@
 layout: home
 ---
 
-老北京布鞋20块一双  
-滴，滴，滴~~~~，滴滴~~~~[先辈叫]  
+Hello World 你好，世界 Здравствуй, мир Bonjour. Le monde Hallo. Welt 
