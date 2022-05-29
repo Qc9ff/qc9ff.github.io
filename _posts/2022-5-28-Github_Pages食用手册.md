@@ -36,4 +36,8 @@ layout: post
 
 #### 写下第一个文章
 在写文章之前，我们需要将仓库clone到本地，我们可以有两种选择  
+
+* 使用GitHub Desktop
+下载[GitHub Desktop](https://desktop.github.com/)
+
 * 使用git
